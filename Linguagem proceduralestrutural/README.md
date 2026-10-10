@@ -64,6 +64,8 @@ Aqui você encontra os fundamentos do Java estudados em uma abordagem procedural
 Para praticar conceitos teóricos e exercícios de entrevista, acesse:
 
 - [Exercícios de Java procedural / estruturado](./exercicios/README.md)
+- [Gabarito dos exercícios teóricos](./exercicios/gabarito-exercicios-teoricos.md)
+- [Gabarito dos exercícios práticos](./exercicios/gabarito-exercicios-praticos.md)
 
 Acesse os arquivos desta pasta para seguir a sequência de estudo.
 

@@ -22,7 +22,9 @@ Treinar:
 ## Estrutura dos exercícios
 
 - [Perguntas teóricas para entrevistas](./exercicios-teoricos.md)
+- [Gabarito das perguntas teóricas](./gabarito-exercicios-teoricos.md)
 - [Exercícios práticos](./exercicios-praticos.md)
+- [Gabarito dos exercícios práticos](./gabarito-exercicios-praticos.md)
 
 ## Tópicos cobridos
 
