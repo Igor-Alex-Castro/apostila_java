@@ -59,4 +59,14 @@ Aqui você encontra os fundamentos do Java estudados em uma abordagem procedural
 - arrays
 - conceitos básicos de lógica e sintaxe
 
+## Exercícios de revisão
+
+Para praticar conceitos teóricos e exercícios de entrevista, acesse:
+
+- [Exercícios de Java procedural / estruturado](./exercicios/README.md)
+
 Acesse os arquivos desta pasta para seguir a sequência de estudo.
+
+### Último item de revisão
+
+- [Exercícios de revisão final](./exercicios/README.md)

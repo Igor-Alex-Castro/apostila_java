@@ -41,12 +41,13 @@ A base da programação: lógica, sequência, decisões, repetições e organiza
 28. [Arrays multidimensionais: parte 01](./Linguagem%20proceduralestrutural/028-arrays-multidimensionais-01/arrays-multidimensionais-01.md)
 29. [Arrays multidimensionais: parte 02](./Linguagem%20proceduralestrutural/029-arrays-multidimensionais-02/arrays-multidimensionais-02.md)
 30. [Arrays multidimensionais: parte 03](./Linguagem%20proceduralestrutural/030-arrays-multidimensionais-03/arrays-multidimensionais-03.md)
+31. [Exercícios de revisão](./Linguagem%20proceduralestrutural/exercicios/README.md)
 
 ### 2) POO (Programação Orientada a Objetos)
 
 A partir daqui, o estudo passa a focar em modelagem de sistemas por meio de classes e objetos.
 
-31. [Orientação a Objetos - Classes e Objetos](./POO/031-Orientacao-a-Objetos-Classes-e-Objetos/31-Orientacao-a-Objetos-Classes-e-Objetos.md)
+32. [Orientação a Objetos - Classes e Objetos](./POO/031-Orientacao-a-Objetos-Classes-e-Objetos/31-Orientacao-a-Objetos-Classes-e-Objetos.md)
 
 ## Sequência recomendada
 
